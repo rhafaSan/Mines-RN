@@ -14,7 +14,6 @@ export default props => {
 
 const styles = StyleSheet.create({
     container: {
-        
         backgroundColor: '#eee'
     }
 })
